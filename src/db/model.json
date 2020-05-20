@@ -1,0 +1,14 @@
+{
+    "currentCard": [
+        {
+            "user": "nickname1",
+            "vote": 0
+        }
+    ],
+    "oldCards": [
+        {
+        "card": "oldCard1",
+        "note": 0
+    }
+]
+}
